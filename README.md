@@ -1,1 +1,1 @@
-find the size of all avalible C++ operators!
+find the size of all avalible C++ data types!
